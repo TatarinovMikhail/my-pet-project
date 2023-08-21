@@ -1,0 +1,12 @@
+RESPONSE: 200 OK
+HEADERS:
+    content-length: [138]
+    content-type: [application/json]
+BODY:
+    {
+      "id" : 2,
+      "name" : "Купить молоко",
+      "isDeleted" : true,
+      "createdAt" : "2018-12-11T10:42:00.000Z",
+      "updatedAt" : "2018-12-11T10:45:00.000Z"
+    }

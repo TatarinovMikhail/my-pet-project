@@ -1,0 +1,14 @@
+RESPONSE: 200 OK
+HEADERS:
+    content-length: [158]
+    content-type: [application/json]
+BODY:
+    {
+      "tasks" : [ {
+        "id" : 1,
+        "name" : "Сходить за хлебом",
+        "isDeleted" : false,
+        "createdAt" : "2018-12-10T13:45:00.000Z",
+        "updatedAt" : "2018-12-10T13:45:00.000Z"
+      } ]
+    }

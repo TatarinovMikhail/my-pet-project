@@ -1,0 +1,17 @@
+[
+  {
+    "type": "pirate",
+    "size": 10,
+    "isFavourite": false
+  },
+  {
+    "type": "dino",
+    "size": 12,
+    "isFavourite": true
+  },
+  {
+    "type": "baby yoda",
+    "size": 10,
+    "isFavourite": true
+  }
+]

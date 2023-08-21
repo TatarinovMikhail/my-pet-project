@@ -1,0 +1,12 @@
+RESPONSE: 200 OK
+HEADERS:
+    content-length: [137]
+    content-type: [application/json]
+BODY:
+    {
+      "id" : 1,
+      "name" : "Отнести ключ",
+      "isDeleted" : false,
+      "createdAt" : "2018-12-10T13:45:00.000Z",
+      "updatedAt" : "2018-12-11T17:42:00.000Z"
+    }
